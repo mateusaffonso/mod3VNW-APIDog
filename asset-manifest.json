@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mod3VNW-APIDogs/static/css/main.e6c13ad2.css",
-    "main.js": "/mod3VNW-APIDogs/static/js/main.102ee15d.js",
-    "static/js/787.94bc9735.chunk.js": "/mod3VNW-APIDogs/static/js/787.94bc9735.chunk.js",
-    "index.html": "/mod3VNW-APIDogs/index.html",
-    "main.e6c13ad2.css.map": "/mod3VNW-APIDogs/static/css/main.e6c13ad2.css.map",
-    "main.102ee15d.js.map": "/mod3VNW-APIDogs/static/js/main.102ee15d.js.map",
-    "787.94bc9735.chunk.js.map": "/mod3VNW-APIDogs/static/js/787.94bc9735.chunk.js.map"
+    "main.css": "/mod3VNW-APIDog/static/css/main.e6c13ad2.css",
+    "main.js": "/mod3VNW-APIDog/static/js/main.4ebd15bd.js",
+    "static/js/787.94bc9735.chunk.js": "/mod3VNW-APIDog/static/js/787.94bc9735.chunk.js",
+    "index.html": "/mod3VNW-APIDog/index.html",
+    "main.e6c13ad2.css.map": "/mod3VNW-APIDog/static/css/main.e6c13ad2.css.map",
+    "main.4ebd15bd.js.map": "/mod3VNW-APIDog/static/js/main.4ebd15bd.js.map",
+    "787.94bc9735.chunk.js.map": "/mod3VNW-APIDog/static/js/787.94bc9735.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.102ee15d.js"
+    "static/js/main.4ebd15bd.js"
   ]
 }
